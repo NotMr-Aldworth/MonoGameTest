@@ -27,6 +27,8 @@ namespace MonoGameTest
             _graphics.PreferredBackBufferWidth = 800;
             _graphics.PreferredBackBufferHeight = 500;
             base.Initialize();
+
+
         }
 
         protected override void LoadContent()
